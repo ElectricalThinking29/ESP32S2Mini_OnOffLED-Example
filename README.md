@@ -1,6 +1,9 @@
 # ESP32S2Mini_OnOffLED-Example
 - Program for ESP32-S2 Mini to switch on/off LED on board for every second.
 - This project was made by PlatformIO on VS Code.
+# ESP32-S2 Mini Pinout
+ ![ESP32-S2 Mini Pinout](./ESP32 S2 mini pinout.jpg)
+
 # First-time programing's guide
 - Step 1: Connect to your PC via USB: Open Device Manager -> Connect your board -> If there is nothing shown up, press RST + GPIO0's button
  on the board then release -> On Device Manager will show 2 devices as shown in picture bellow.
